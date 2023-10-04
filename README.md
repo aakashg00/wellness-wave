@@ -1,6 +1,6 @@
 # wellness-wave
 Welcome to WellnessWave, a full-stack social media web app for sharing and discussing mental health 🌱
-
+- Uses JavaScript, React, Node.js, Express.js, MongoDB, and Redux!
 -----
 Screenshots:
 <img width="1253" alt="Screen Shot 2023-10-03 at 9 58 23 PM" src="https://github.com/aakashg00/wellness-wave/assets/77900695/335afa26-624a-4bf0-a717-a8c80ece4513">
