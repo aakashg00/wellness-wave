@@ -1,5 +1,6 @@
 # wellness-wave
 Welcome to WellnessWave, a full-stack social media web app for sharing and discussing mental health 🌱
+- Passion project I made during Summer 2023!
 - Uses JavaScript, React, Node.js, Express.js, MongoDB, and Redux!
 -----
 Screenshots:
